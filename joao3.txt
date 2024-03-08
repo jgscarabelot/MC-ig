@@ -1,0 +1,3 @@
+escreva multiplicacao(a,b){
+    escreva resultado = a*b
+}

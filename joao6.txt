@@ -1,0 +1,7 @@
+leia (a)
+
+se (a %2 == 0){
+    escreva(par)
+}senao{
+    escreva(impar)
+}

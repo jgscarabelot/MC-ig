@@ -1,0 +1,9 @@
+leia(a)
+
+se(a > 0){
+    escreva(positivo)
+}se (a == 0){
+    escreva(zero)
+}e se (a < 0){
+    escreva (negativo)
+}
